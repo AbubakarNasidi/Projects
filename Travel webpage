@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Travel Website</title>
+        <style>
+		H1 { color: green
+}
+		# List-of-food { color: blue
+			}
+		. Locations-visit { background-color: red
+}
+        </style>
+    </head>
+    <body>
+
+    <h1><strong class="apples">Intelliquest Travelling Agency</strong> </h1>
+   <img scr= ”https://sl.bing.net/gwJJ7dtPVoy” alt=”without name on it” width=”40”>
+   <img scr= ”https://sl.bing.net/imBTOy3XMuO” alt=”without name on it” width=”40”>
+    <p>
+	<table class=”Locations-visit”>
+	   <tr>
+	        <th>
+		<td>Location</td>
+		<td>Country</td>
+		<td>Date</td>
+       </th>
+  <tr>
+	<tbody>
+	  		<td>Dubai</td>
+			<td>UAE</td>
+			<td>December </td>
+	
+</tbody>
+<tbody>
+	  		<td>Canada</td>
+			<td>USA</td>
+			<td>December </td>
+</tbody>
+<tbody>
+	  		<td>Canada</td>
+			<td>USA</td>
+			<td>December </td>
+</tbody>
+  </tr>
+</table>
+<H2 id=”List-of-food”><strong>List of food we sponsor</strong></H2>
+<P> (
+<Ol>
+<Li>Breakfast</Li>
+<Li>Launch</Li>
+<Li>Dinner</Li>
+<Li>Light food</Li>
+</Ol>
+ </p>
+    </body>
+</html>
